@@ -11,7 +11,7 @@ resta = Num1 - Num2
 mult = Num1 * Num2
 
 division = Num1 / Num2
-# aqui le decimos a la maquina que usando los datos anteriores realize las operaciones 
+# Aqui le decimos a la maquina que usando los datos anteriores realize las operaciones 
 print("la suma de %s y %s es %s" % (Num1, Num2, suma))
 
 print("la resta de %s y %s es %s" % (Num1, Num2, resta))
